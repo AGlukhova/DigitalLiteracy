@@ -41,5 +41,5 @@
 
     *Ich lerne Deutch.*
 
-    *printf(I study English.*
+    *I study English.*
 
